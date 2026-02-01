@@ -27,7 +27,7 @@ begin
     end
   else
   begin
-    writeln('failed,not saved');
+    writeln('fuck you bitch');
   end;  
   end;  
 end.
