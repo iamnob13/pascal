@@ -27,7 +27,7 @@ begin
     end
   else
   begin
-    writeln('fuck you bitch');
+    writeln('Thank you');
   end;  
   end;  
 end.
