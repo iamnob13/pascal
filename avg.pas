@@ -11,3 +11,4 @@ begin
   writeln('* your number:',' ',num1,' ',num2,' ',num3);
   writeln('*         avg1:',avg1:5:2);
  end.
+ fuck this shit.
