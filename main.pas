@@ -1,4 +1,4 @@
-program easy;
+program breakingBad;
 var 
  myscore : real;
  f:text;
@@ -27,7 +27,7 @@ begin
     end
   else
   begin
-    writeln('Thank you');
+    writeln('Hello My Name is HISENBERG');
   end;  
   end;  
 end.
